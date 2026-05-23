@@ -1,8 +1,8 @@
 <a href="#">
 <p align="center">
-<div align="center">
+<center><div align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="180px" height="auto" align="center"/>
-</div>
+</div></center>
 </p>
 </a>
 
