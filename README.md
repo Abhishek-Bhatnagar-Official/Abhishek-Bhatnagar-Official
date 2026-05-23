@@ -1,10 +1,6 @@
-<a href="#">
-<p align="center">
 <center><div align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="180px" height="auto" align="center"/>
 </div></center>
-</p>
-</a>
 
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave">, I'm 
